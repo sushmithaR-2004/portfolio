@@ -11,7 +11,7 @@ fontFamily: "Arial"
 
   <h3>Front-End Developer | Final Year E&I Student</h3>
   <p>
-  <a href="/Frontend.pdf" target="_blank" rel="noreferrer">
+  <a href="/Frontend_dev.pdf" target="_blank" rel="noreferrer">
     Download Resume
   </a>
 </p>
